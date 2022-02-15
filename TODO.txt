@@ -1,0 +1,3 @@
+Priority (in descending order):
+1. Type of DC motor using
+2. determine M2 screw/nut length 
